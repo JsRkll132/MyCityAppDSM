@@ -1,0 +1,371 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="coffee_shops">Cafeterias</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="kid_friendly_places">Kid-friendly places</string>
+    <string name="parks">Parques</string>
+    <string name="shopping_centres">Centros Comerciales</string>
+    <string name="recommended">Recommended</string>
+    <string name="colon">": "</string>
+    <string name="dash">" - "</string>
+    <string name="space">" "</string>
+    <string name="java_jive">Manolo</string>
+    <string name="java_jive_content"><![CDATA[
+        Tienda de Cafe , Te y mas..
+        <br><br><br><br>
+        Detalles<br><br>
+RANGO DE PRECIOS<br><br>
+S/ 3 – S/ 15<br><br>
+TIPOS DE COMIDA<br><br>
+Peruana<br><br>
+        <br><br>
+       DIETAS ESPECIALES<br><br>
+Apto para vegetarianos<br><br>
+COMIDAS<br><br>
+Desayuno, Almuerzo, Cena, Brunch, Abierto hasta tarde
+        <br><br><br><br>
+        CARACTERÍSTICAS<br><br>
+Comida para llevar, Asientos al aire libre, Asiento, Sillitas altas disponibles, Acceso para silla de ruedas, Sirve alcohol, Acepta tarjetas de crédito, Servicio de mesa
+<br><br><br><br>
+        <span style="color:#666600"><small>Direccion: Av. José Larco 608, Lima 15074 Perú<br>
+        Telefono: 444-2244<br>
+        </small></span>
+        ]]>
+    </string>
+    <string name="brew_haven">Starbucks Coffee</string>
+    <string name="brew_haven_content"><![CDATA[
+        Starbucks en Lima se ha convertido en un lugar emblemático para los amantes del café y aquellos que buscan un espacio acogedor para relajarse o trabajar. La cadena internacional tiene varias ubicaciones en toda la ciudad, cada una con su propio encanto y características únicas, pero manteniendo siempre la esencia de la marca.<br><br>
+Características generales de Starbucks en Lima:<br><br>
+
+Ambiente: Los locales de Starbucks en Lima están diseñados para ofrecer un ambiente cómodo y moderno. Encontrarás una combinación de asientos cómodos, mesas amplias y áreas más íntimas para que los clientes puedan disfrutar de su café, leer un libro, trabajar en sus laptops o reunirse con amigos.<br><br>
+
+Decoración: La decoración suele ser una mezcla de elementos contemporáneos con toques locales. Es común ver murales o arte que reflejan la cultura peruana, creando un ambiente que resuena con la identidad local mientras mantiene el estilo característico de Starbucks.<br><br>
+
+Menú: El menú de Starbucks en Lima incluye una variedad de bebidas clásicas como el café latte, cappuccino, frappuccino y tés, así como opciones locales adaptadas al gusto peruano. También ofrecen una selección de alimentos que incluye pasteles, sándwiches y productos típicos como empanadas.<br><br>
+
+Café peruano: Una característica especial de Starbucks en Lima es la promoción del café peruano. En varias ocasiones, la cadena ha destacado y comercializado cafés provenientes de diferentes regiones del Perú, celebrando la rica tradición cafetera del país.<br><br>
+
+Ubicaciones: Starbucks tiene presencia en los principales distritos de Lima, incluyendo Miraflores, San Isidro, San Borja y Surco, entre otros. Cada ubicación está estratégicamente situada para atraer tanto a locales como a turistas.<br><br>
+
+Eventos y promociones: Starbucks en Lima también organiza eventos y promociones especiales, como catas de café, lanzamientos de nuevos productos y promociones por temporadas, lo que mantiene a la clientela interesada y comprometida.
+        <br><br>
+
+        <br><br>
+        <span style="color:#666600"><small>Dirección : Av. José Larco 632, Miraflores 15074<br>
+        Telefono: (01) 5055000</small></span>
+        ]]>
+    </string>
+    <string name="cosmic_cup">La Baguette</string>
+    <string name="cosmic_cup_content"><![CDATA[
+        Detalles<br><br><br><br>
+RANGO DE PRECIOS<br><br>
+S/ 5 – S/ 10<br><br>
+TIPOS DE COMIDA<br><br>
+Peruana, Café<br><br>
+        <br><br>
+        DIETAS ESPECIALES<br><br>
+Apto para vegetarianos, Opciones veganas<br><br>
+COMIDAS<br><br>
+Desayuno, Almuerzo, Cena, Brunch, Abierto hasta tarde
+        <br><br>
+        CARACTERÍSTICAS<br><br>
+Entrega a domicilio, Comida para llevar, Asiento, Sillitas altas disponibles, Acceso para silla de ruedas, Sirve alcohol, Wi-Fi gratis, Servicio de mesa<br><br><br><br>
+        ]]>
+    </string>
+    <string name="culinary_creations">Puerto Máncora Restaurante</string>
+    <string name="culinary_creations_content"><![CDATA[
+ACERCA DE
+Puerto Mancora es un restaurante de comida típica peruana con especialidad en pescados y mariscos. Contamos con dos locales en Lima. Uno en el distrito de La Molina y el otro en Miraflores.
+        <br><br>
+        RANGO DE PRECIOS<br><br>
+S/ 15 – S/ 30<br><br><br><br>
+TIPOS DE COMIDA<br><br>
+Peruana, Mariscos, Parrilla, Fusión
+        <br><br>
+        COMIDAS<br><br>
+Almuerzo, Brunch, Bebidas<br><br>
+CARACTERÍSTICAS<br><br>
+Entrega a domicilio, Comida para llevar, Reservas, Asientos al aire libre, Asiento, Estacionamiento disponible, Estacionamiento en la calle, Estacionamiento para clientes, Televisión, Sillitas altas disponibles, Acceso para silla de ruedas, Sirve alcohol, Bar completo, Vino y cerveza, Acepta American Express, Acepta Mastercard, Acepta Visa, Pagos digitales, Solo pago en efectivo, Wi-Fi gratis, Acepta tarjetas de crédito, Servicio de mesa, Música en vivo, Playa, Estilo familiar
+        <br><br>
+        <span style="color:#666600"><small>Direccion: Av. Pardo y Aliaga 456, San Isidro ,Lima 09630 Perú<br>
+        Numero: 7155-700<br>
+     </small></span>
+
+        ]]>
+    </string>
+    <string name="time_warp">Market 770</string>
+    <string name="time_warp_content"><![CDATA[
+        <i>Market 770</i>
+        <br><br>
+        ACERCA DE<br><br>
+Restaurante abierto desde el desayuno hasta la cena, presenta una propuesta innovadora de cocina de mercado existente y se basa tanto en productos de gran calidad de día a día, así como en los productos propios de cada temporada. El comensal puede optar por platos caseros o más sofisticados, que se mantienen fieles a la esencia de los ingredientes utilizados en su preparación.
+        <br><br>
+        RANGO DE PRECIOS<br><br>
+S/ 30 – S/ 60<br><br><br><br>
+TIPOS DE COMIDA<br><br>
+Peruana<br><br><br><br>
+DIETAS ESPECIALES<br><br>
+Apto para vegetarianos, Opciones veganas, Opciones sin gluten<br><br>
+        <br><br>
+        COMIDAS<br><br>
+Desayuno, Almuerzo, Cena<br><br><br><br>
+CARACTERÍSTICAS<br><br>
+Reservas, Bufé, Asiento, Estacionamiento disponible, Estacionamiento para clientes, Acceso para silla de ruedas, Sirve alcohol, Wi-Fi gratis, Acepta tarjetas de crédito, Servicio de mesa
+        <br><br><br><br>
+
+        <br><br>
+        <span style="color:#666600"><small>Direccion: C. Las Begonias 450 The Westin Lima Hotel & Convention Center, Lima 00027 Perú<br>
+        Numero: +51 1-2015022<br>
+     </small></span>
+        ]]>
+    </string>
+    <string name="sakura_heaven">La Plaza Bar &amp; Grill</string>
+    <string name="sakura_heaven_content"><![CDATA[
+        ACERCA DE<br><br>
+Una moderna propuesta Fusión Peruana Tex-Mex, en un ambiente casual y fresco, que se destaca por utilizar deliciosos ingredientes regionales. La carta ofrece ribs, hamburguesas, fajitas y platos típicos peruanos. Además de ensaladas personalizadas (Open Salad). La barra invita a disfrutar cocteles y macerados a base de nuestra bebida insignia: el Pisco.
+        <br><br>
+        RANGO DE PRECIOS<br><br>
+S/ 3 – S/ 11<br><br><br><br>
+TIPOS DE COMIDA<br><br>
+Peruana, Latina, Bar, Fusión<br><br><br><br>
+DIETAS ESPECIALES<br><br>
+Apto para vegetarianos, Opciones veganas, Opciones sin gluten<br><br>
+        <br><br>
+        COMIDAS<br><br>
+Desayuno, Almuerzo, Cena, Brunch, Bebida<br><br>
+        <br><br>
+       CARACTERÍSTICAS<br><br>
+Comida para llevar, Reservas, Bufé, Asiento, Estacionamiento disponible, Televisión, Sillitas altas disponibles, Acceso para silla de ruedas, Sirve alcohol, Bar completo, Acepta American Express, Acepta Mastercard, Acepta Visa, Solo pago en efectivo, Wi-Fi gratis, Acepta tarjetas de crédito, Servicio de mesa
+        <br><br><br><br>
+        <span style="color:#666600"><small>Direccion: Calle Schell 452 Casa Andina, Lima 15074 Perú<br>
+        Telefono: +51 (1) 213-4300<br>
+       </small></span>
+        ]]>
+    </string>
+    <string name="senor_taco">Senor Taco</string>
+    <string name="senor_taco_content"><![CDATA[
+        Señor Taco is a lively restaurant that offers a taste of authentic Mexican cuisine in a vibrant and
+        festive atmosphere. The restaurant is decorated with colorful murals, papel picado banners, and
+        hanging piñatas, creating an inviting and energetic space. The walls are adorned with photos of
+        famous Mexican celebrities and landmarks, further immersing guests in the rich culture of Mexico.
+        <br><br>
+        The aroma of freshly grilled meats, sizzling fajitas, and simmering sauces fills the air, enticing
+        guests even before they step through the doors. The restaurant\'s open kitchen allows diners to watch
+        as the chefs expertly prepare their meals, adding to the lively atmosphere.
+        <br><br>
+        The menu at Señor Taco features a wide variety of traditional Mexican dishes, including tacos,
+        burritos, enchiladas, and quesadillas. All of the dishes are made with fresh, high-quality
+        ingredients, and they are bursting with flavor. The restaurant also offers a selection of Mexican
+        beers and margaritas, perfect for enjoying with a meal or simply relaxing with friends.
+        <br><br>
+        Señor Taco is a great place to go for a fun and festive night out. The lively atmosphere, delicious
+        food, and friendly service are sure to please everyone at the table.
+        <br><br>
+        <span style="color:#666600"><small>Address: 123 Fiesta Street, Anytown, USA<br>
+        Phone: (555) 555-5555<br>
+        Hours: Mon-Fri: 6am-10pm, Sat-Sun: 7am-11pm</small></span>
+        ]]>
+    </string>
+    <string name="ocean_pearl">Ocean Pearl</string>
+    <string name="ocean_pearl_content"><![CDATA[
+        Nestled along the picturesque coastline, Ocean Pearl beckons seafood enthusiasts with its promise
+        of culinary excellence and breathtaking ocean views. The restaurant\'s elegant yet inviting ambiance
+        sets the stage for an unforgettable dining experience, while its commitment to freshness and
+        sustainability ensures that every dish is a symphony of flavors and textures.
+        <br><br>
+        Upon entering Ocean Pearl, guests are greeted by a spacious dining area adorned with nautical accents,
+        expansive windows that frame the mesmerizing panorama of the ocean, and a soothing symphony of gentle
+        waves crashing against the shore. The décor, with its subtle blend of natural elements and modern
+        touches, creates an atmosphere of refined elegance yet exudes a sense of casual comfort.
+        <br><br>
+        The culinary team at Ocean Pearl takes pride in sourcing the freshest seafood directly from local
+        fishermen, ensuring that each dish is prepared with ingredients that have journeyed from the sea
+        to the table in a matter of hours. Their expertise lies in showcasing the natural flavors of the
+        ocean\'s bounty, employing a variety of cooking techniques that enhance the inherent goodness
+        of the seafood without overpowering it.
+        <br><br>
+        The menu at Ocean Pearl is a delightful exploration of the ocean\'s culinary treasures, offering a
+        curated selection of classic seafood dishes alongside innovative creations that showcase the
+        versatility of marine cuisine. From the delicate finesse of seared scallops and pan-fried fish to
+        the hearty flavors of steamed lobster and cioppino, each dish is a testament to the chefs\' mastery
+        of seafood.
+        <br><br>
+        Beyond its culinary offerings, Ocean Pearl also tempts the palate with an array of carefully curated
+        wines, ensuring that each sip complements the flavors of the seafood. The restaurant\'s extensive
+        wine list features both local and international selections, offering guests the opportunity to
+        embark on a journey through the world of wine while savoring the freshest seafood delicacies.
+        <br><br>
+        Whether seeking a romantic dinner for two or a lively gathering with friends and family, Ocean
+        Pearl offers an exceptional seafood dining experience that will leave a lasting impression. The
+        breathtaking ocean views, impeccable service, and commitment to sustainable seafood practices are
+        sure to delight and satisfy even the most discerning palates.
+        <br><br>
+        <span style="color:#666600"><small>Address: 123 Coastal Blvd, Anytown, USA<br>
+        Phone: (555) 555-5555</small></span>
+        ]]>
+    </string>
+    <string name="toy_shop">Toy shop</string>
+    <string name="toy_shop_content"><![CDATA[
+        A toy shop is a haven for children\'s (and some grown-ups\') imaginations, bursting with endless
+        possibilities for fun and adventure. Imagine shelves upon shelves overflowing with colorful delights,
+        from cuddly stuffed animals and playful action figures to intricate construction sets and dazzling
+        board games. The air buzzes with excited chatter as kids race through aisles, their eyes wide with
+        wonder and hands itching to grasp every treasure they encounter.
+        <br><br>
+        Here\'s a closer look at what you might find inside a typical toy shop:
+        <br><br>
+        \u25CF <b>Action Alley:</b> Rows of superheroes, pirates, knights, and fantastical creatures stand at attention,
+        ready to embark on countless imaginary quests.
+        <br><br>
+        \u25CF <b>Dollhouse Domain:</b> Miniature worlds unfold, filled with tiny furniture, families, and pets, waiting
+        to be brought to life through storytelling and roleplay.
+        <br><br>
+        \u25CF <b>Building Block Bonanza:</b> Towers of colorful bricks invite budding architects and engineers to
+        construct magnificent creations, limited only by their imagination.]]>
+    </string>
+    <string name="game_centre">Game centre</string>
+    <string name="game_centre_content"><![CDATA[
+        <span style="color:#FF0033"><b>Stepping into the Buzz: Atmosphere, Games, and Social Vibes of a Game Centre</b></span>
+        <br><br>
+        \u25CF <b>Sensory overload in the best way:</b> Arcade classics like Pac-Man and air hockey ping
+        alongside the latest VR experiences and immersive racing simulators. Think flashing lights, pumping
+        music, and the constant hum of joystick controls.
+        <br><br>
+        \u25CF <b>Something for everyone:</b> From retro pixelated delights to cutting-edge virtual reality
+        adventures, game centres offer a smorgasbord of genres and experiences. Classic arcade games, rhythm
+        games, racing simulators, first-person shooters, puzzle games – you name it, they probably have it.
+        <br><br>
+        \u25CF <b>A breeding ground for friendly competition:</b> Whether it\'s battling it out in air hockey or
+        teaming up for a co-op adventure, game centres offer a platform for social interaction and bonding over
+        shared goals.
+        <br><br>
+        \u25CF <b>A sense of community:</b> Game centres can feel like havens for gamers, with a shared language
+        and understanding that transcends age and background. It\'s a place where you can connect with others who
+        share your passion for play.
+        ]]>
+    </string>
+    <string name="playground">Outdoor playground</string>
+    <string name="playground_content"><![CDATA[
+        A vibrant canvas of childhood joy, the playground pulsates with laughter and the boundless energy of
+        young imaginations. Sunlight paints the scene in warm hues, dappled by the leafy canopy of towering
+        trees that stand like benevolent giants, their branches outstretched in silent applause. Beneath their
+        watchful gaze, a symphony of giggles and squeals erupts from a vibrant jungle gym, its colorful towers
+        and ladders scaled with the fearless determination of tiny adventurers.
+        <br><br>
+        A swing set sways gently in the breeze, each arc a pendulum carrying squeals of delight, as little
+        astronauts soar through the sky, propelled by invisible jets of pure imagination. Nearby, a sandbox
+        whispers secrets of faraway lands, castles molded with tiny hands, rivers carved with sticks, and
+        seashells transformed into glistening treasure.
+        <br><br>
+        On the periphery, a merry-go-round spins a kaleidoscope of color, painted ponies prancing under the
+        watchful gaze of watchful parents. Each revolution brings a fresh chorus of \"Faster! Faster!\" echoing
+        through the air, a joyous chant that weaves through the playground\'s vibrant tapestry.]]>
+    </string>
+    <string name="library">Library</string>
+    <string name="library_content"><![CDATA[
+        There are many reasons why libraries are wonderful for kids! Here are just a few highlights:
+        <br><br>
+        Libraries offer a much wider and more diverse selection of books than kids might have access to at home.
+        This allows them to explore different genres, interests, and learning styles, potentially sparking a
+        lifelong love of reading.
+        <br><br>
+        Reading aloud to young children, which often happens during library visits, is crucial for early literacy
+        development. It fosters a positive association with books and strengthens language skills.
+        <br><br>
+        Libraries are not just about books anymore! They often offer educational resources like computers, DVDs,
+        educational games, and even museum passes. This provides kids with diverse learning opportunities beyond
+        traditional academics.
+        <br><br>
+        Books and other resources in libraries offer windows into different cultures, experiences, and ways of
+        thinking. This broadens kids\' understanding of the world and promotes empathy and intercultural
+        awareness.
+        ]]>
+    </string>
+    <string name="avenue_central_park">Plaza San Miguel</string>
+    <string name="avenue_central_park_content"><![CDATA[
+    <br><br>
+        Plaza San Miguel es un centro comercial ubicado entre las avenidas Riva Agüero, La Marina y Universitaria, en el distrito de San Miguel, ciudad de Lima, capital del Perú. Es el centro comercial más antiguo de la ciudad de Lima, inaugurado el 15 de octubre de 1976.
+        <br><br>
+
+        ]]>
+    </string>
+    <string name="hilltop_emporium">Mall del Sur</string>
+    <string name="hilltop_emporium_content"><![CDATA[
+    <br><br>
+        Mall del Sur es un centro comercial ubicado entre las avenidas Los Lirios y Pedro Miotta, en el distrito de San Juan de Miraflores, ciudad de Lima, capital del Perú. Se inauguró el 13 de marzo de 2016. Fue construido por el Grupo Wong, que también desarrolló Plaza Norte.
+         <br><br>
+
+        ]]>
+    </string>
+    <string name="harbor_point_marketplace">Larcomar</string>
+    <string name="harbor_point_marketplace_content"><![CDATA[
+    <br><br>
+        Larcomar es un centro comercial ubicado en el trayecto final de la avenida Larco, en el distrito de Miraflores, ciudad de Lima, capital del Perú. Fue inaugurado el 27 de noviembre de 1998, ocupa un área de 45 mil metros cuadrados y demandó una inversión aproximadamente de 60 millones de dólares.
+        <br><br>
+        <br><br>
+     Dirección: Mal. de la Reserva 610, Miraflores 15074
+        ]]>
+    </string>
+    <string name="cloud_cuckoo_park">Cloud Cuckoo City Park</string>
+    <string name="cloud_cuckoo_park_content"><![CDATA[
+        Ah, Cloud Cuckoo City Park – where gravity takes a vacation and imagination soars higher than a kite
+        with a rocket strapped to its tail. This isn\'t your average park with swings and sprinklers, no sir.
+        Here, houses perch on stilts like giant birds, their windows winking like stars against the cerulean
+        canvas. Rainbow-hued walkways weave through the clouds, each step a bouncy adventure on a marshmallowy
+        path.
+        <br><br>
+        Forget pigeons and squirrels; the park teems with creatures straight out of a Dr. Seuss fever dream.
+        Grinning clouds puff smoke rings, playful pixies flit between dandelion fluff, and chatty chimeras with
+        butterfly wings and lion paws laze in sunbeams. Music floats on the breeze, a whimsical blend of bird
+        song and wind chimes tinkling like laughter.
+        <br><br>
+        And the stories! Every corner whispers tales of daring sky-pirates, mischievous cloud-weavers, and wise
+        old owls who guard the secrets of the stars. It\'s a place where dreams take root and blossom, where
+        children build castles from moonbeams and grown-ups rediscover the joy of a good ol\' fashioned cloud
+        nap.
+        <br><br>
+        So, pack your sense of wonder, grab your stardust sneakers, and head for Cloud Cuckoo City Park. Just
+        remember, mind your step – you never know what fantastical friend you might stumble upon next!
+        ]]>
+    </string>
+    <string name="starlight_soiree">The Starlight Soiree</string>
+    <string name="starlight_soiree_content"><![CDATA[
+        Imagine a twilight sky streaked with lavender and gold, casting an ethereal glow upon a whimsical
+        landscape. Instead of rides and tents, fantastical creatures roam freely. A towering spider spun a web
+        of shimmering silk, its threads aglow with bioluminescent fireflies. A family of gnomes tinkers with
+        clockwork contraptions, their tiny hammers tapping like a metronome. In the distance, a majestic griffin
+        soars, its feathers shimmering with every beat of its wings.
+        <br><br>
+        The air thrums with music unlike anything heard on Earth. Talking trees whisper melodies in the breeze,
+        their leaves rustling like ancient parchments. Flowers chime like crystal bells, and pixies strum
+        miniature lutes, their tiny fingers creating a symphony of light and sound.
+        <br><br>
+        But the true magic lies in the games and attractions. Step into a tent woven from moonbeams and find
+        yourself dancing with constellations. Or take a ride on a cloud carousel, its wispy steeds carrying you
+        through stardust swirls. In a mirror pond, gaze into your reflection and glimpse alternate versions of
+        yourself, each a spark of possibility in the multiverse.
+        <br><br>
+        No carnival is complete without treats, and this one is no exception. Savor moonbeam pastries that melt
+        in your mouth, leaving a trail of stardust on your tongue. Sip on dandelion dew that bubbles with
+        laughter and cures any frown. Or indulge in a slice of dragonberry pie, its crimson filling tingling
+        with firefly embers.
+        ]]>
+    </string>
+    <string name="wind_harp_woods">Wind Harp Woods</string>
+    <string name="wind_harp_woods_content"><![CDATA[
+        Stepping into Wind Harp Woods is like entering a symphony composed by nature itself. Sunlight filters
+        through ancient boughs, dappling the mossy floor in emerald and gold. Whispers of wind rustle through
+        the leaves, sending ripples of sound that shimmer like silk scarves in the air. It\'s a gentle rhythm,
+        sometimes a playful trill, other times a mournful sigh, weaving its way through the towering trees.
+        <br><br>
+        The further you delve into the woods, the deeper the music sinks into your bones. It becomes a tangible
+        presence, wrapping around you like a cloak of velvet. It soothes troubled thoughts, awakens slumbering
+        dreams, and whispers ancient secrets into your ear. It\'s a language older than words, understood by the
+        heart rather than the mind.
+        <br><br>
+        Wind Harp Woods is more than just a beautiful place; it\'s a sanctuary. It\'s a place where you can escape
+        the cacophony of the world and find solace in the rhythm of nature. It\'s a place to reconnect with your
+        own inner music, to discover the symphony waiting to be played within your soul.
+        ]]>
+    </string>
+</resources>
